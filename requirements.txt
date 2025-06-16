@@ -1,0 +1,6 @@
+beautifulsoup4
+html2text
+requests
+mcp[cli]
+streamlit
+ollama
